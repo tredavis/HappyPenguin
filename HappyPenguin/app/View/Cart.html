@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html ng-app="happyApp">
+<head>
+    <meta charset="utf-8">
+    <title>JS Bin</title>
+
+</head>
+<body ng-controller="SearchController">
+    <div class="row clearfix" style="margin-top: 50px">
+        <button class="btn btn-info" ng-click="loadWalmartItem()"><span class="glyphicon glyphicon-shopping-cart"></span> View Cart </button>
+        <div class="col-sm-6 well pull-right">
+            <table class="table table-striped" ng-repeat="item in cart">
+              
+                <tr>
+                    <th>Price</th>
+                    <th>Name</th>
+                    <th>Image</th>
+
+                </tr>
+                <tr>
+                    <td>{{item.Price}}</td>
+                    <td>{{item.ItemName}}</td>
+                    <td><img src='{{item.Image}}' height="60" width="60" /></td>
+                    <td><button class="btn btn-danger" ng-click="deleteItem(item)">Delete</button></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>

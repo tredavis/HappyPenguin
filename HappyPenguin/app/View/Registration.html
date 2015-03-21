@@ -1,0 +1,25 @@
+﻿
+
+
+<div class="container" ng-controller="RegistrationController">
+    <div class="well" align="center">
+        <h1>Register Below!</h1>
+        <form ng-submit="processRegistration()">
+            <div class="form-group">
+                <label>Email:</label><br/>
+                <input type="email" ng-model="email" class="form-control"/><br/>
+            </div>
+            <div class="form-group">
+                <label>Enter Password:</label><br/>
+                <input type="password" ng-model="password" class="form-control"/><br/>
+            </div>
+            <label>Confirm Password:</label><br/>
+            <div class="form-group">
+                <input type="password" ng-model="passwordCheck" class="form-control"/><br/><br/>
+            </div>
+            <input type="submit" class="btn btn-primary" value="Register"/>
+        </form>
+    </div>
+</div>
+
+

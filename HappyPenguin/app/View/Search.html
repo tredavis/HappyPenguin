@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html ng-app="happyApp">
+<head>
+    <meta charset="utf-8">
+    <title>JS Bin</title>
+
+</head>
+<body ng-controller="SearchController">
+
+    <div class="row">
+        <div class="col-sm-6">
+            <div ng-repeat="item in items" style="margin-top: 50px; margin-top: 50px">
+                <ul style="list-style-type: none; border: 1px solid white; background-color: rgba(255, 255, 240, 0.5); color: black">
+                    <h2>Walmart</h2>
+                    <li style="margin-top: 15px">Price: {{item.salePrice}} &nbsp; &nbsp; Item Name: {{item.name}}</li>
+                    <li></li>
+                    <li><img src='{{item.thumbnailImage}}' height="100" width="100"/></li>
+                    <button class="btn btn-success" ng-click="addItem(item)">Save</button>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div ng-repeat="data in etems" style="margin-top: 50px">
+                
+                <ul style="list-style-type: none;border: 1px solid white; background-color: rgba(255, 255, 240, 0.5); color:black">
+                    <li>
+                        <h2>eBay</h2>
+                         {{data.price}} &nbsp;  {{data.title}}</li>
+                    <li >
+                         <img src='{{data.image}}' height="100" width="100" />
+                    </li>
+                    <button class="btn btn-success" ng-click="addEbayItem(data)">Save</button>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
