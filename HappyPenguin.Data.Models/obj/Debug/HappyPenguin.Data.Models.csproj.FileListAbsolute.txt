@@ -14,3 +14,19 @@ C:\Users\Owner\Documents\Visual Studio 2015\Projects\HappyPenguin\HappyPenguin.D
 C:\Users\Owner\Documents\Visual Studio 2015\Projects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\Visual Studio 2015\Projects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.dll
 C:\Users\Owner\Documents\Visual Studio 2015\Projects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.pdb
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\HappyPenguin.Data.Models.dll.config
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\HappyPenguin.Data.Models.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\HappyPenguin.Data.Models.pdb
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.dll
+C:\Users\Tre\Desktop\WebProjects\HappyPenguin\HappyPenguin.Data.Models\obj\Debug\HappyPenguin.Data.Models.pdb

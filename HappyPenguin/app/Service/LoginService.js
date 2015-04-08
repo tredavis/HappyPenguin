@@ -42,34 +42,3 @@
         //registerLogOutCallback: registerLogOutCallback
     };
 }]);
-
-
-
-
-
-
-
-
-
-
-//var isLoggedIn = function () {
-//    return $window.sessionStorage.getItem('username');
-//}
-
-//var logout = function () {
-//    $window.sessionStorage.removeItem('token');
-//    $window.sessionStorage.removeItem('username');
-//    for (var c in callbacks) {
-//        var cb = callbacks[c];
-//        cb();
-//    }
-//}
-
-//var registerLogOutCallback = function () {
-//    for (var c in arguments) {
-//        var cb = arguments[c];
-//        if (typeof cb == 'function') {
-//            callbacks.push(cb);
-//        }
-//    }
-//}
